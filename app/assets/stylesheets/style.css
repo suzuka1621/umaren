@@ -1,0 +1,203 @@
+/* 全体のスタイル */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+/* ヘッダーのスタイル */
+header {
+  background-color: #98FB98;
+  padding: 50px;
+  }
+  
+  .toptext {
+  font-size: 70px;
+  color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  }
+  
+  header nav {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  word-spacing: 11.0em;
+  margin-top: 35px;
+  }
+  
+  header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  }
+  
+  header nav li {
+  margin-right: 20px;
+  }
+  
+  header nav a {
+  color: #333;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  }
+  
+  header nav a:hover {
+  color: #0088cc;
+  }
+  
+  /* メインコンテンツのスタイル */
+  body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("body背景.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+		}
+    
+  main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  }
+  
+  .intro {
+  text-align: center;
+  }
+  
+  .intro h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  }
+  
+  .intro p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  word-spacing: 11.0em;
+  }
+  
+  .button {
+  display: inline-block;
+  background-color: #0088cc;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  }
+  
+  .button:hover {
+  background-color: #006699;
+  }
+  
+  .news {
+  margin-top: 40px;
+  }
+  
+  .news h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  }
+  
+  .news ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  }
+  
+  .news li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  }
+  
+  .news a {
+  color: #333;
+  text-decoration: none;
+  }
+  
+  .news a:hover {
+  color: #0088cc;
+  }
+  
+  .photos {
+  margin-top: 40px;
+  display: block;
+  }
+
+  .photos p {
+  font-size: 20px;
+  margin-bottom: 20px;
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  word-spacing: 11.0em;
+  }
+  
+  .photos ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  }
+
+  .photos li {
+  width: calc(33.33% - 10px);
+  margin-right: 20px;
+  margin-bottom: 20px;
+  }
+  
+  .photos li:last-child {
+  margin-right: 0;
+  }
+  
+  .photos img {
+  width: 100%;
+  border-radius: 5px;
+  }
+
+  .contents {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sorce {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* フッターのスタイル */
+  footer {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+  }
+  
+  footer p {
+  margin: 0;
+  font-size: 14px;
+  color: #999;
+  }
+  
+  footer a {
+  color: #999;
+  text-decoration: none;
+  }
+  
+  footer a:hover {
+  color: #0088cc;
+  }
