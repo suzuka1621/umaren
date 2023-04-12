@@ -46,7 +46,7 @@
 
 
 # データベース設計
-![データベース図](ウマREN_ER図.jpg)
+![データベース図](app/assets/images/ウマREN_ER図.jpg)
 
 
 
