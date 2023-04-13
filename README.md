@@ -1,22 +1,22 @@
 # アプリケーション名
-## ウマREN
+### ウマREN
 
 
 # アプリケーション概要
-## 馬が好きな同士がメッセージを通して交流できるアプリ
+### 馬が好きな同士がメッセージを通して交流できるアプリ
 
 
 # URL
-## https://umaren.onrender.com/
+### https://umaren.onrender.com/
 
 
 # テスト用アカウント
-## ・メールアドレス: suzuka@ura.jp
-## ・パスワード:umaren121
+### ・メールアドレス: suzuka@ura.jp
+### ・パスワード:umaren121
 
 
 # 利用方法
-## 交流したいユーザーを探す
+### 交流したいユーザーを探す
 ### 1.トップページ(一覧ページ)のヘッダーからユーザー新規登録を行う
 
 ### 2.トップページ(一覧ページ)のヘッダーのユーザー検索をクリックし、その後交流したい相手の条件を入力、検索をすると条件に合ったユーザーが表示される
@@ -31,11 +31,11 @@
 
 
 # 洗い出した要件
-## [要件を定義したシート](https://docs.google.com/spreadsheets/d/1L4lPZqUfL_vLcTrsLZ-L1PT7JLobcRvBaNrdXbjEseY/edit?usp=sharing)
+### [要件を定義したシート](https://docs.google.com/spreadsheets/d/1L4lPZqUfL_vLcTrsLZ-L1PT7JLobcRvBaNrdXbjEseY/edit?usp=sharing)
 
 
 # 実装した機能についての画像やGIFおよびその説明
-## [トップページ](https://i.gyazo.com/4a0600c81cbc443a9ee23ac0bd1a0bec.mp4)
+### [トップページ](https://i.gyazo.com/4a0600c81cbc443a9ee23ac0bd1a0bec.mp4)
 
 ### 全てトップページから始まることができ、トーク、ユーザー検索、友達一覧、プロフィール編集と機能をまとめている。
 
